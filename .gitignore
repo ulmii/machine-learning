@@ -132,4 +132,4 @@ dmypy.json
 *.png
 
 # too large
-vehicles.csv
+*.csv
