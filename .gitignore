@@ -133,3 +133,4 @@ dmypy.json
 
 # too large
 *.csv
+!iris.csv
